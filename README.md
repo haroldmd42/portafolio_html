@@ -1,2 +1,2 @@
 # portafolio_html
-Portafolio Solo codigo basico de html
+Portafolio Solo código básico de html
